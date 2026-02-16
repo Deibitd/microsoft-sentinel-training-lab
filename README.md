@@ -21,6 +21,8 @@ I recorded my steps, notes, and any screenshots
 - Learned that navigating Azure's UI can be tricky and correctly configuring resource and region configurations is critical
 
 
-#### Lab source
+#### Lab sources
 Official lab instructions:
 https://github.com/Azure/Azure-Sentinel/blob/master/Solutions/Training/Azure-Sentinel-Training-Lab/Modules/Module-1-Setting-up-the-environment.md
+
+WIP currently as I go through the labs 
